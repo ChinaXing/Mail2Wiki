@@ -1,0 +1,16 @@
+[mail]
+server = xxxxx
+port   = 993
+user   = xxxxx
+pass   = xxxxx
+
+
+# Wiki settings
+[wiki]
+type   = MindTouch 
+domain = xxxxxx
+user   = wikixxx
+pass   = abcd
+prefix = mail
+
+;prefix = User
