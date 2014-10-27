@@ -24,10 +24,10 @@ How to use
         
         # Wiki settings
         wiki_type   : MindTouch
-        wiki_domain : x.wf.taobao.org
+        wiki_domain : www.exmple.org
         wiki_user   : wikiuser
         wiki_pass   : userpassword
-        wiki_prefix : PE/mail
+        wiki_prefix : mail
         #wiki_prefix : User # means User/<mailsender> but not contain the @xxx.com part
       
 - then run the script ``mail2wiki.pl`` in ``bin`` directory  
